@@ -1,4 +1,8 @@
 _repo: Manual-of-Library-Economy-Third-and-Memorial-Edition_49895
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49895-h/images/cover_sm.jpg
 creator:
   authors:
   - agent_name: Sayers, W. C. Berwick
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45598'
     url: http://www.gutenberg.org/2009/agents/45598
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49895#Manual-of-Library-Economy-Third-and-Memorial-Edition
 gutenberg_issued: '2015-09-06'
 gutenberg_type: Text
 identifiers:
